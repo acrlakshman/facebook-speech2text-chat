@@ -1,6 +1,7 @@
 facebook-speech2text-chat
 =========================
-A facebook app, using which you can chat as you speak. It can post on your wall whatever you tell it to post.
+A facebook app created during MidWest Hackathon 2013 at UIUC, using which you can chat as you speak.
+It can post on your wall whatever you tell it to post.
 
 How to use
 ==========
