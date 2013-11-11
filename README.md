@@ -5,7 +5,7 @@ It can post on your wall whatever you tell it to post.
 
 How to use
 ==========
-Trigger word: 'lucky'
+Trigger word: 'lucky' (you can change it in the source code)
 
 1) Whenever you want it to do, start that sentence with 'lucky'. For instance, if you want it to connect to chat
 server, just say 'lucky connect me to chat' or something similar... Then select any of friend and keep speaking, it
