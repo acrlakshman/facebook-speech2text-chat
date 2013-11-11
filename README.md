@@ -8,8 +8,8 @@ How to use
 Trigger word: 'lucky' (you can change it in the source code)
 
 1) Whenever you want it to do, start that sentence with 'lucky'. For instance, if you want it to connect to chat
-server, just say 'lucky connect me to chat' or something similar... Then select any of friend and keep speaking, it
-will chat for you.
+server, just say 'lucky connect me to chat' or something similar... Then select any of your online friend and keep
+speaking, it will chat for you.
 
 2) 'lucky post on my wall' or something similar... will enable you to type something that you want it to post on your
 wall... when you are done typing just say 'lucky done' or 'lucky post', it will post for you on your facebook wall.
