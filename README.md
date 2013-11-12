@@ -6,6 +6,7 @@ It can post on your wall whatever you tell it to post.
 How to use
 ==========
 Trigger word: 'lucky' (you can change it in the source code, line 780 of index.php)
+
 Customize dialect: line 1387 of index.php (currently set to en-US {Americal english})
 
 1) Whenever you want it to do, start that sentence with 'lucky'. For instance, if you want it to connect to chat
