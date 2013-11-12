@@ -13,3 +13,9 @@ speaking, it will chat for you.
 
 2) 'lucky post on my wall' or something similar... will enable you to type something that you want it to post on your
 wall... when you are done typing just say 'lucky done' or 'lucky post', it will post for you on your facebook wall.
+
+Acknowledgements
+================
+Source code at "https://github.com/javierfigueroa/turedsocial" was a great help in knowing how to connect to facebook chat server using Strophe.
+
+Source of "http://www.google.com/intl/en/chrome/demos/speech.html" is the basis for speech2text code used in this hack.
