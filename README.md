@@ -16,6 +16,6 @@ wall... when you are done typing just say 'lucky done' or 'lucky post', it will 
 
 Acknowledgements
 ================
-Source code at "https://github.com/javierfigueroa/turedsocial" was a great help in knowing how to connect to facebook chat server using Strophe.
+Source code at https://github.com/javierfigueroa/turedsocial was a great help in knowing how to connect to facebook chat server using Strophe.
 
-Source of "http://www.google.com/intl/en/chrome/demos/speech.html" is the basis for speech2text code used in this hack.
+Source of http://www.google.com/intl/en/chrome/demos/speech.html is the basis for speech2text code used in this hack.
