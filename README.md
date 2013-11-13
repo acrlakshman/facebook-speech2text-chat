@@ -5,7 +5,7 @@ It can post on your wall whatever you tell it to post.
 
 How to use
 ==========
-Trigger word: 'lucky' (you can change it in the source code, line 780 of index.php)
+Trigger word: 'lucky' (you can change it in the source code, <a href="https://github.com/acrlakshman/facebook-speech2text-chat/blob/master/index.php#L780">line 780</a> of index.php)
 
 Customize dialect: <a href="https://github.com/acrlakshman/facebook-speech2text-chat/blob/master/index.php#L1387">line 1387</a> of index.php (currently set to en-US {American english})
 
