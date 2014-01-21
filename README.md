@@ -1,6 +1,6 @@
 facebook-speech2text-chat
 =========================
-A facebook app created during Midwest Regional Hackathon 2013 at UIUC by facebook, using which you can chat as you speak.
+A facebook app written during Midwest Regional Hackathon 2013 at UIUC organized by facebook, using which you can chat as you speak.
 It can post on your wall whatever you tell it to post.
 
 How to use
